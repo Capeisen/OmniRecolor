@@ -1,4 +1,4 @@
-# OmniRecolor:Compositional Multimodal ImageRecoloring via Diffusion Flow Composition
+# OmniRecolor: Compositional Multimodal ImageRecoloring via Diffusion Flow Composition
 
 ![OmniRecolor](assets/1.jpeg)
 

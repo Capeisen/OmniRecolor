@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Model checkpoints
+checkpoints/
+*.safetensors
+*.ckpt
+*.pth
+*.pt
+
+# Datasets and generated outputs
+dataset/
+datasets/
+outputs/
+results/
+
+# Logs and caches
+logs/
+.cache/
+wandb/

@@ -1,6 +1,5 @@
-# OmniRecolor
+# OmniRecolor:Compositional Multimodal ImageRecoloring via Diffusion Flow Composition
 
-**Compositional Multimodal Image Recoloring via Diffusion Flow Composition**
 ![OmniRecolor](assets/1.jpeg)
 
 ## Environment Setup

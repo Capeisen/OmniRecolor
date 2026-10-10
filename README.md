@@ -11,7 +11,7 @@ Before running OmniRecolor, follow the installation instructions in the [OmniGen
 We provide an inference script, `inference_splitrecolor.py`, for compositional image recoloring.
 
 The fine-tuned OmniRecolor model weights are available on Hugging Face:​
-• OmniRecolor Checkpoint: QingsWen/OmniRecolor_check
+OmniRecolor Checkpoint: [QingsWen/OmniRecolor_check](https://huggingface.co/QingsWen/OmniRecolor_checkpoint)
 
 ### Example Command
 
